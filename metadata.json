@@ -1,0 +1,6 @@
+{
+  "name": "SchemaForge",
+  "description": "Reverse engineer SQL dumps & JSON datasets into canonical schemas, interactive ERDs, and production Laravel 13 migrations and models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
